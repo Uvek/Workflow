@@ -6,9 +6,9 @@ name: .NET Core Desktop
 on:
  
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "master ]
+    branches: [ "main" ]
 
 jobs:
 
@@ -18,20 +18,20 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - name: Checkout
+     - name: Checkout
        uses: actions/checkout@v4
 
        #Install the net core workload 
-       -name: Install .NET SDK
+     - name: Install .NET SDK
        uses: actions/checkout@v4
        with:
-       dotnet-versions: 10.0.x
+        dotnet-versions: 10.0.x
 
-       - name: Restore Dependencies 
-       run: dotnet restore 
+      - name: Restore dependencies 
+        run: dotnet restore 
 
-       -name: Build
-       run: dotnet build - no restore 
+      - name: Build
+        run: dotnet build - no restore 
 
    
           echo Add other actions to build,
