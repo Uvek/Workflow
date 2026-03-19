@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uvekt\\OneDrive\\Desktop\\Modules VC\\year two\\Prog6211 A2\\Ice task 2\\ice-task-02-Uvek\\Dictionaries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD45969F-C721-56B9-6D39-7A55A8220E9B}|Dictionaries.csproj|c:\\users\\uvekt\\onedrive\\desktop\\modules vc\\year two\\prog6211 a2\\ice task 2\\ice-task-02-uvek\\dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD45969F-C721-56B9-6D39-7A55A8220E9B}|Dictionaries.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uvekt\\OneDrive\\Desktop\\Modules VC\\year two\\Prog6211 A2\\Ice task 2\\ice-task-02-Uvek\\Dictionaries\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\uvekt\\OneDrive\\Desktop\\Modules VC\\year two\\Prog6211 A2\\Ice task 2\\ice-task-02-Uvek\\Dictionaries\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwEMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:20:06.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

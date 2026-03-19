@@ -1,0 +1,14 @@
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\bin\Debug\net10.0\Dictionaries.exe
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\bin\Debug\net10.0\Dictionaries.deps.json
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\bin\Debug\net10.0\Dictionaries.runtimeconfig.json
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\bin\Debug\net10.0\Dictionaries.dll
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\bin\Debug\net10.0\Dictionaries.pdb
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\obj\Debug\net10.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\obj\Debug\net10.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\obj\Debug\net10.0\Dictionaries.AssemblyInfo.cs
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\obj\Debug\net10.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\obj\Debug\net10.0\Dictionaries.dll
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\obj\Debug\net10.0\refint\Dictionaries.dll
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\obj\Debug\net10.0\Dictionaries.pdb
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\obj\Debug\net10.0\Dictionaries.genruntimeconfig.cache
+C:\Users\uvekt\OneDrive\Desktop\Modules VC\year two\Prog6211 A2\Ice task 2\ice-task-02-Uvek\Dictionaries\obj\Debug\net10.0\ref\Dictionaries.dll
